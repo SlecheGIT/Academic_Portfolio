@@ -1,0 +1,38 @@
+Trabalho de Infra
+Henrique Gettner de Oliveira, 45767
+
+SALA 1:
+No switch:
+	(Criar a VLAN 10)
+	
+	Switch>enable 
+	Switch#configure terminal
+	Enter configuration commands, one per line.  End with CNTL/Z.
+	Switch(config)#vlan 10
+	Switch(config-vlan)#name SALA1
+	Switch(config-vlan)#exit
+	Switch(config)#do wr
+	Building configuration...
+	[OK]
+	
+	(Atribuir as portas que conectarão os dispositivos com fio à VALN 10, fiz uso das FastEthernet 0/1 a 0/4)
+	
+	Switch(config)#interface range FastEthernet 0/1 - 4
+	Switch(config-if-range)#switchport mode access
+	Switch(config-if-range)#switchport access vlan 10
+	Switch(config-if-range)#exit
+	Switch(config)#do wr
+	
+	(Configurar a vlan do Telefone IP, coloquei meu telefone na FastEthernet 0/2)
+	
+	Switch(config)#interface FastEthernet 0/2
+	Switch(config-if)#switchport voice vlan 10
+	Switch(config-if)#exit
+	Switch(config)#do wr
+	Building configuration...
+	[OK]
+	
+	(Nota: as portas que se conectarão aos switches multilayer futuramente deverão se configuradas como trunk)
+
+
+https://docs.google.com/document/d/1Mkis9tASE8qXNfBpm_6WtRTLacPxSitvPeTTZlqeJ1g/edit?usp=sharing

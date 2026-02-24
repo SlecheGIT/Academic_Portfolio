@@ -1,0 +1,38 @@
+[
+    {
+        "combustivel": 0,
+        "preco": 5200,
+        "latitude": -22.227087,
+        "longitude": -54.80274
+    },
+    {
+        "combustivel": 0,
+        "preco": 5300,
+        "latitude": -22.227267,
+        "longitude": -54.804442
+    },
+    {
+        "combustivel": 0,
+        "preco": 4900,
+        "latitude": -22.9,
+        "longitude": -55.9
+    },
+    {
+        "combustivel": 0,
+        "preco": 4600,
+        "latitude": -22.213998,
+        "longitude": -54.813512
+    },
+    {
+        "combustivel": 0,
+        "preco": 4700,
+        "latitude": -22.224012,
+        "longitude": -54.777096
+    },
+    {
+        "combustivel": 0,
+        "preco": 3400,
+        "latitude": -22.0,
+        "longitude": -55.0
+    }
+]
