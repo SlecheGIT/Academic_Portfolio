@@ -10,7 +10,8 @@ The curriculum is organized by academic years:
 ### 📅 Year 1: Foundations
 * **Algorithms and Data Structures I:** Introduction to computational thinking, variables, and fundamental control structures.
 * **Python & Java:** Intensive exercises and mini-courses focused on mastering syntax and logic in **Python** and **Java**.
-
+* **Calculus I and Calculus II**
+  
 ### 📅 Year 2: Systems & Advanced Algorithms
 * **Algorithms and Data Structures II:** Advanced study and implementation of **data compression (Huffman coding)**, complex **sorting algorithms**, **balanced trees** (AVL, B), and fundamental structures like **Linked Lists, Stacks, and Queues**.
 * **Programming Paradigms:** Comparative study of programming styles, with a heavy focus on **Object-Oriented Programming (OOP) in C++**.
