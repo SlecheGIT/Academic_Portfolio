@@ -5,7 +5,7 @@ This repository contains the projects, exercises, and lecture notes developed du
 
 ## 📂 Repository Structure
 
-The curriculum is organized by academic years:
+The Repository is organized by academic years:
 
 ### 📅 Year 1: Foundations
 * **Algorithms and Data Structures I:** Introduction to computational thinking, variables, and fundamental control structures.
