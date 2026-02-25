@@ -2,7 +2,7 @@
 ## Nomenclature
 
 * **AC** = Arquitetura de computadores
-* **ACE** = 
+* **ACE** = Atividades curriculares de extensão
 * **AED2** = Análise e estrutura de dados
 * **CN** = Cálculo numérico
 * **LFA** = Linguagens formais e autômatos

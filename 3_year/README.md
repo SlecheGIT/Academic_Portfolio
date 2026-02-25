@@ -6,4 +6,4 @@
 * **LM** = Linguagem de montagem
 * **RC** = Redes de computadores
 * **SO** = Sistemas operacionais
-* **TC** = 
+* **TC** = Tópicos de computação
